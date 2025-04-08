@@ -1,5 +1,8 @@
 "Fix everything"
 Branch switching is a nightmare
+<<<<<<< HEAD
 "Try this"
 "Nope"
 "Maybe"
+=======
+>>>>>>> 51d5fee3dafa81b8009aa5c76f43ea2e1bd43dc0
