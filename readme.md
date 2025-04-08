@@ -1,3 +1,9 @@
 "I’m already screwed"
 "I'm still screwed"
-I’m the best.
+<<<<<<< HEAD
+We’re both the best, ugh
+
+=======
+We’re both the best, ugh
+
+>>>>>>> feature
